@@ -12,5 +12,7 @@ func main() {
 	// until.Vslicek()
 	// until.Vslicekv()
 	// until.CapExp()
-	until.LenSlice()
+	// until.LenSlice()
+	// until.AppendDataSlice()
+	until.AppendDataSliceArray()
 }
