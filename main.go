@@ -14,5 +14,7 @@ func main() {
 	// until.CapExp()
 	// until.LenSlice()
 	// until.AppendDataSlice()
-	until.AppendDataSliceArray()
+	// until.AppendDataSliceArray()
+	// until.CopyData()
+	until.MapDate()
 }
