@@ -16,5 +16,7 @@ func main() {
 	// until.AppendDataSlice()
 	// until.AppendDataSliceArray()
 	// until.CopyData()
-	until.MapDate()
+	// until.MapDate()
+	// until.ForUntil()
+	until.Add(1, 2)
 }
