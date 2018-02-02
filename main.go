@@ -18,5 +18,8 @@ func main() {
 	// until.CopyData()
 	// until.MapDate()
 	// until.ForUntil()
-	until.Add(1, 2)
+	// until.Add(1, 2)
+	// until.IndefiniteUntil(2, 3, 4)
+	// until.MyPrintf("555555")
+	until.Closure()
 }
