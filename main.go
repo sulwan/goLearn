@@ -21,5 +21,6 @@ func main() {
 	// until.Add(1, 2)
 	// until.IndefiniteUntil(2, 3, 4)
 	// until.MyPrintf("555555")
-	until.Closure()
+	// until.Closure()
+	until.Sorter()
 }
